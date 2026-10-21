@@ -24,7 +24,7 @@ The project is inspired by the research paper:
 - Export predictions to a CSV file.
 - Analyze additional documents without hardcoding their contents.
 
-## Technologies Used
+## Technologies Used here
 
 - Python
 - Pandas
